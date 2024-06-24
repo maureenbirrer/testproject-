@@ -1,0 +1,23 @@
+/*Font Definition für Selektor Tags*/
+* {
+  font-family: "Lato", sans-serif;
+  hyphens: auto;
+}
+
+/*Font Definition für Nav, h1, Button*/
+.w3-bar,
+h1,
+button {
+  font-family: "Montserrat", sans-serif;
+}
+
+/*Grösse der Beiden Icons auf Startseite*/
+.fa-anchor,
+.fa-coffee {
+  font-size: 200px;
+}
+
+.side-pictures {
+  height: 250px;
+  padding: 40px;
+}
